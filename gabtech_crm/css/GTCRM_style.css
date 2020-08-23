@@ -1,0 +1,137 @@
+
+/* {
+	border: 1px solid grey;               
+	box-sizing: border-box;           
+}
+
+
+/*-------------------------------------------------------  Log in page CSS style -----------------------------------------------------------------*/
+
+
+#gt-header {
+	display: block;                                            
+	margin: auto; 
+	text-align: center;
+}
+
+#gt-img {
+	display: block;						
+	position: relative;							
+	margin: auto;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Trebuchet MS", Verdana, sans-serif;                       
+	margin: 0;                                                     
+	box-sizing: border-box;
+}
+
+#gt-menu {
+	text-align: right;
+	padding: 20px;
+	box-sizing: border-box;								 
+	width: 100%;
+	background-color: #33ccff ;
+}
+
+#gt-menu a{
+	text-decoration: none;
+	background-color: white;
+	display: inline-block;
+	color: black;
+	padding: 8px;
+	border-radius: 25px;
+}
+
+
+#gt-title {
+	text-align: center;
+	display: relative;									
+	margin: auto;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+#main-form {
+	text-align: left;														
+	display: block;
+	height: 300px;
+	width: 260px;
+	margin: auto;										
+	margin-top: 20px;
+	padding: 60px;
+	border-radius: 25px;	
+	border: none;
+	border: 1px solid #d0d0d0;
+	position: relative;
+}
+
+#main-form:hover {
+	box-shadow: 5px 5px 10px #33ccff, 0px 0px 10px #33ccff;			
+}
+
+#footer {
+	text-align: center;
+	display: block;
+	padding: 15px;											
+	background-color: #555;
+	color: white;
+}
+
+#gt-main {
+	text-align: center;									   
+	height: 660px;
+}
+
+#signup-txt {
+	margin-top: 25px;
+	text-align: center;
+}
+
+#footer p {
+	display: inline-block;                                
+}
+
+#main-form input {
+	text-align: center;
+	float: center;
+	width: 100%;
+	margin: 5px;
+	display: inline-block;  
+	border: 2px inset #33ccff;                                
+	box-sizing: border-box;
+	padding: 7px;
+	border-radius: 30px;
+	font-family: "Trebuchet MS";
+}
+
+#main-form label {
+	text-align: right;                                    
+}
+
+#p-login {
+	text-align: center;                                   
+}
+
+button {
+	text-align: center;
+	margin: auto;
+	display: block;
+	margin-top: 20px;	
+	padding: 15px;
+	width: 40%;												
+	background-color: #33ccff;
+	border: 1px solid #33ccff;
+	color: white;
+	border-radius: 30px;
+	font-size: 18px;
+}
+
+button:hover {
+	background-color: white;
+	color: #33ccff;											
+	border: 1px solid #33ccff;
+}
+
+

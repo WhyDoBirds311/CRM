@@ -1,0 +1,81 @@
+ /* {
+ 	border: 1px solid #d0d0d0;
+ }
+
+
+ /* ------------------------------------------------------------- User Page Cascadin Stylesheet --------------------------------------------------*/
+
+
+ body {
+	font-family: "Courier New";            
+	margin: 0;
+	overflow-x: hidden; 
+ }
+
+#usrpg-header {
+	margin-left: 160px;
+}
+
+ #usrpg-logo {
+ 	display: block;
+ 	box-sizing: border-box;
+ 	margin: auto;
+ }										
+
+#usrpg-menu {
+	margin-left: 160px;
+	background-color: #33ccff;
+	box-sizing: border-box;
+	color: white;
+	padding: 5px;									  		
+}
+
+div h4 {
+	background-color: white;
+	color: black;
+	display: inline-block;
+	margin-left: 15px;
+	padding: 5px;
+	border-radius: 8px;
+}
+
+#usr-sidebar {
+	width: 160px;
+	height: 100%;	
+	overflow: auto;		
+	top: 0;
+	left: 0;													
+	position: fixed;
+	box-sizing: border-box;
+	background-color: #b3e6ff;
+}
+
+.btn {
+	padding: 20px;
+	width: 100%;
+	background-color: #b3e6ff;
+	border: none;
+	font-family: "Courier New";
+	text-align: left;
+	font-size: 16px;
+}
+
+#usr-sidebar button:hover {
+	background-color: #33ccff;	
+	color: white;					
+}
+
+#usr-viewtab {
+	height: 1000px;
+}
+
+
+#footer {
+	margin-left: 160px;
+	text-align: center;
+	background-color: #555;
+	color: white;
+	padding: 20px;
+}
+
+

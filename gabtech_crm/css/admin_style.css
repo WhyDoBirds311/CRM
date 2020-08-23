@@ -1,0 +1,99 @@
+/* {
+	border: 1px solid grey;                     
+}
+
+/*------------------------------------------------------ Administrator's Page CSS codes -----------------------------------------------*/
+
+body {
+	font-family: "Courier New";
+	box-sizing: border-box;                   
+	margin: 0; 
+	overflow-x: hidden;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+#gt-header {
+	margin-left: 160px;
+}
+
+#admin-menu {
+	background-color: #33ccff;
+	padding: 5px;									
+	margin-left: 160px;
+}
+
+#admin-menu h4 {
+	background-color: white;
+	color: black;
+	margin-left: 15px;
+	display: inline-block;
+	border-radius: 8px;
+	padding: 5px;
+}
+
+#admin-sidebar {
+	width: 160px;
+	height: 100%;	
+	overflow: auto;
+	top: 0;
+	left: 0;							
+	position: fixed;
+	background-color: #b3e6ff;
+}
+
+.btn {
+	padding: 20px;
+	width: 100%;
+	background-color: #b3e6ff;
+	border: none;
+	font-family: "Courier New";
+	text-align: left;
+	font-size: 16px;
+}
+
+#admin-sidebar button:hover {
+	background-color: #33ccff;
+	color: white;						      
+}
+
+#admin-viewtab {
+	height: 1000px;
+	display: block;
+}
+
+#footer {
+	margin-left: 160px;
+	text-align: center;
+	background-color: #555;
+	color: white;
+	padding: 20px;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 90%;
+	font-size: 15px;
+	margin: auto;
+	border: 1px solid #d0d0d0;
+}
+
+th, td {
+	padding: 8px;
+	text-align: center;
+	border: 1px solid #d0d0d0;
+}
+
+tr:nth-child(even) {
+	background-color: #b3e6ff;
+}
+
+
+
+a {
+	text-decoration: none;
+}

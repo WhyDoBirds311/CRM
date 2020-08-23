@@ -1,0 +1,124 @@
+/* {
+	border: 1px solid grey;               
+	box-sizing: border-box;           
+}
+
+
+/*--------------------------------------------------------------  Sign Up page CSS style ----------------------------------------------------------*/
+
+#signup-form {
+	display: block;
+	position: relative;
+	margin: auto;
+	margin-top: 60px;							
+	height: 490px;
+	width: 390px;
+	float: center;
+	text-align: left;
+	border: 1px solid #d0d0d0;
+	border-radius: 50px;
+}
+
+#signup-form:hover {
+	box-shadow: 5px 5px 10px #33ccff, 0px 0px 10px #33ccff; 
+}
+
+#p-signup {
+	margin-top: 35px;
+	margin-bottom: 40px;                  
+	font-size: 20px;
+	text-align: center;
+}
+
+#signup-form input{
+	width: 60%;
+	display: block;
+	margin: auto;
+	text-align: center;					
+	font-family: "Trebuchet MS";
+	margin-top: 8px;
+	border: 2px inset #33ccff;
+	margin-bottom: 8px;
+	border-radius: 30px;
+	padding: 10px;
+}
+
+#signup-form label {
+	text-align: left;
+	margin: 80px 50px 10px 50px;	         
+}
+
+#p-menu {
+	margin: none;
+	display: inline-block;
+	padding: 8px;					         
+	border-radius: 20px;
+	background-color: white;	
+}
+
+#signup-menu {
+	width: 100%;
+	background-color: #33ccff;                
+	text-align: right;
+}
+
+#p-menu a {
+	font-size: 20px;   
+	text-decoration: none;                     
+	color: #33ccff;
+}
+
+#su-main {
+	height: 740px;                          
+}
+
+
+#footer p {
+	display: inline-block;                                
+}
+
+
+button {
+	text-align: center;
+	margin: auto;
+	display: block;
+	margin-top: 20px;	
+	padding: 15px;
+	width: 40%;												
+	background-color: #33ccff;
+	border: 1px solid #33ccff;
+	color: white;
+	border-radius: 30px;
+	font-size: 18px;
+}
+
+button:hover {
+	background-color: white;
+	color: #33ccff;											
+	border: 1px solid #33ccff;
+}
+
+
+#footer {
+	text-align: center;
+	display: block;
+	padding: 15px;											
+	background-color: #555;
+	color: white;
+}
+
+
+
+body {
+	box-sizing: border-box;
+	font-family: "Trebuchet MS", Verdana, sans-serif;                        
+	margin: 0; 
+}
+
+img {
+	display: block;						                      
+	position: relative;							
+	margin: auto;
+	box-sizing: border-box;
+}
+

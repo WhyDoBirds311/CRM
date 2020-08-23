@@ -1,0 +1,159 @@
+
+/* {
+	border: 1px solid gray;
+}
+
+/*---------------------------------------------------------------------------------------------------------------------------------------------*/
+
+#gt-header {
+	display: block;                                            
+	margin: auto; 
+	text-align: center;
+}
+
+#gt-menu {
+	text-align: right;
+	padding: 35px;
+	box-sizing: border-box;								 
+	width: 100%;
+	background-color: #33ccff ;
+}
+
+body {
+	font-family: "Courier New";
+	width: 100%;
+	margin: 0;
+}
+
+main {
+	width: 100%;
+	margin: 0;
+	height: 100%;
+}
+
+form {
+	margin: auto;
+	width: 100%;
+}
+
+h3 {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+p {
+	text-align: center;
+	margin: 40px;
+}
+
+.fieldset {
+	margin: auto;
+	width: 80%;
+	padding: 20px;
+	display: block;
+	margin-bottom: 20px;
+	font-size: "Trebuchet MS";
+}
+
+.select {
+	margin: auto;
+	padding: 10px;
+	display: inline-block;
+	border-radius: 10px;
+	margin-left: 20px;
+}
+
+#save-btn {
+	float: right;
+	margin: auto;
+	margin-right: 60px;
+	padding: 8px 20px;
+	background-color: #33ccff;
+	border: none;
+	color: rgb(255,255,255);
+	font-size: 18px;
+	border-radius: 30px;
+}
+
+.container {
+	display: block;
+	position: relative;
+	padding: 20px;
+	margin: 0;
+	height: 100%;
+}
+
+#container1 {
+	display: inline-block;
+	width: 440px;
+}
+
+#container1 label {
+	display: inline-block;
+	width: 240px;
+	text-align: right;
+	margin: 7px;
+}
+
+#container2 {
+	display: inline-block;
+	width: 450px;
+	float: right;
+}
+
+#container2 label {
+	width: 100%;
+}
+
+#container2 input {
+	width: 70%;
+	margin-bottom: 30px;
+}
+
+#keyword {
+	display: block;
+	margin: 5px;
+}
+
+textarea {
+	height: 88px;
+	float: right;
+	width: 450px;
+}
+
+#pages label {
+	display: inline-block;
+	text-align: right;
+	width: 240px;
+	margin: 10px;
+}
+
+#pages input {
+	width: 600px;
+}
+
+#footer {
+	text-align: center;
+	display: block;
+	padding: 5px;	
+	margin-top: 20px;										
+	background-color: #555;
+	color: white;
+}
+
+#container4 label {
+	display: inline-block;
+	text-align: right;
+	width: 240px;
+	margin: 10px;
+}
+
+#container4 input {
+	width: 600px;
+}
+
+#part1 {
+	border: 1px solid red;
+	width: 45%;
+}
+
